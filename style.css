@@ -1,0 +1,45 @@
+.heading{
+    border-radius: 20px;
+    width: 100%;
+    font-size: 25;
+    text-align: center;
+    height: 30px;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    font-size: 20;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#big_image{
+    width: 100%;
+}
+
+.source_code{
+    margin-bottom: 0px;
+    line-height: 3;
+    background-color: orange;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction{
+    display: inline-block;
+    width:45%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
